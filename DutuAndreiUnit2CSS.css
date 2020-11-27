@@ -1,0 +1,46 @@
+body{
+	background-color: #fff7e3;
+}
+
+h1{
+   text-align: center;
+   font-size: 60px;
+   text-shadow: 2px 2px #FF0000;
+}
+
+.subtitlu{
+	color: #06a800;
+	margin-left: 20px;
+	font-size: 32px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 3px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.retea{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.resurse{
+	margin-left: 20px;
+	padding: 10px 20px 10px 20px;
+	border-radius: 8%;
+}
+	
+
+
